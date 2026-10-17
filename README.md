@@ -55,8 +55,11 @@ Review each part of the report, returning to step 4 if necessary.
 
 # V. Recommendations:
 - Reallocate 30% of the budget from over-budget and underperforming campaigns to campaigns with high profit potential.
-=> Objective: Increase overall ROAS and reduce CAC.
+
+  => Objective: Increase overall ROAS and reduce CAC.
 - Pause advertisements for product categories such as "Separates" (tops, skirts, and bottoms sold individually) and shift focus toward "Question Mark" categories—specifically loose-fit flared dresses and waist-cinching, form-fitting dresses.
-=> Objective: Minimize low-margin or profit-eroding items and improve overall profit margins.
+
+  => Objective: Minimize low-margin or profit-eroding items and improve overall profit margins.
 - Adjust campaign scheduling by concentrating ad spend during the 09:00–12:00 and 21:00–24:00 time slots.
-=> Objective: Improve CTR and conversion rates.
+
+  => Objective: Improve CTR and conversion rates.
