@@ -35,10 +35,10 @@ Review each part of the report, returning to step 4 if necessary.
 <img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/c52c8815-3284-48d9-9a05-9ced65ecc593" />
 
 ## 2. Campaign Analysis
-<img width="1421" height="801" alt="image" src="https://github.com/user-attachments/assets/bb38cfbf-3dc0-48c5-b824-69bc4ecc6b7b" />
+<img width="1412" height="802" alt="image" src="https://github.com/user-attachments/assets/f45e5b8d-ffc3-4044-ba46-c6a4b31bd30d" />
 
 ## 3. Product Analysis
-<img width="1422" height="806" alt="image" src="https://github.com/user-attachments/assets/df7caaac-1b81-45f0-b40d-c9d4df8cd20a" />
+<img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/bb2cab41-995a-4ef0-b01e-cd3cf917067c" />
 
 # IV. Insights
 ## 1. Key insight:
