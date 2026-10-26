@@ -30,7 +30,10 @@ Build a complete report:
 ## Step 5: Review
 Review each part of the report, returning to step 4 if necessary.
 
-# III. Visualization
+# III. Data model
+<img width="967" height="780" alt="image" src="https://github.com/user-attachments/assets/7b356e2c-3bca-47d8-9dae-c0dcf96821b8" />
+
+# IV. Visualization
 ## 1. Executive Overview
 <img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/c52c8815-3284-48d9-9a05-9ced65ecc593" />
 
@@ -40,7 +43,7 @@ Review each part of the report, returning to step 4 if necessary.
 ## 3. Product Analysis
 <img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/bb2cab41-995a-4ef0-b01e-cd3cf917067c" />
 
-# IV. Insights
+# V. Insights
 ## 1. Key insight:
   Many campaigns—such as "Lisa IG" and "Audrey Shirt LAL new"—have delivered exceptional returns (with ROAS ranging from 10x to as high as 90x), yet their budget utilization remains suboptimal (only 46–70%). Conversely, capital is being indiscriminately poured—exceeding set limits by 10–60%—into underperforming campaigns with low ROAS, such as "IVANA SET" and "VERENA SET."
 => The system is currently "burning money" on ineffective campaigns while "stifling" those with the potential to generate significant cash flow.
