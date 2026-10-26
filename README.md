@@ -12,14 +12,14 @@
 
 # II. Design thinking method
 ## Step 1: Empathize
-<img width="1600" height="564" alt="image" src="https://github.com/user-attachments/assets/e3c20519-1616-4695-9dc1-da6dec302a77" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8673b716-f515-475e-9e85-45b19358cddb" />
 
 ## Step 2: Define POV
-<img width="734" height="513" alt="image" src="https://github.com/user-attachments/assets/32c69304-d5ba-4f78-ab3d-cbceb2647bd6" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/f70a7d7b-a303-48be-b014-b6e8af35893f" />
 
 ## Step 3: Ideate
-<img width="887" height="613" alt="image" src="https://github.com/user-attachments/assets/ca810f3a-5e29-4549-8d85-52cb5e07e302" />
-<img width="1334" height="526" alt="image" src="https://github.com/user-attachments/assets/aa0981d7-4097-4676-87a7-f45429ba275e" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/62a4cecf-91db-4b5a-841d-7f9d4836add3" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4c6ce217-82c5-42fc-a6dc-761452c89f79" />
 
 ## Step 4: Prototype
 Build a complete report:
