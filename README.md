@@ -1,4 +1,14 @@
 # [Power BI] Marketing Campaign Report
+# Table of contents
+[**I. Introduction**](#i-introduction)
+
+[**II. Design thinking method**](#ii-design-thinking-method)
+
+[**III. Data model**](#iii-data-model)
+
+[**IV. Visualization**](#iv-visualization)
+
+[**V. Insights & Recommendations**](#v-insights-recommendations)
 
 # I. Introduction
 ## 1. Dataset overview
@@ -43,7 +53,7 @@ Review each part of the report, returning to step 4 if necessary.
 ## 3. Product Analysis
 <img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/bb2cab41-995a-4ef0-b01e-cd3cf917067c" />
 
-# V. Insights & Recommendations:
+# V. Insights & Recommendations
 | Insight                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Recommendation                                                                                                                                                                                                                                                                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Many   campaigns—such as "Lisa IG" and "Audrey Shirt LAL   new"—have delivered exceptional returns (with ROAS ranging from 10x to   as high as 90x), yet their budget utilization remains suboptimal (only   46–70%). Conversely, capital is being indiscriminately poured—exceeding set   limits by 10–60%—into underperforming campaigns with low ROAS, such as   "IVANA SET" and "VERENA SET. (Page 2)"                                                                              | Immediate capital   reallocation: Cease the practice of spreading budgets too thinly or   misallocating funds. Reduce spending limits for over-budget campaign groups   (IVANA SET, MAIA DRESS) and redirect those resources toward high-performing   "cash cow" products (Lisa IG, Audrey Shirt IG) to optimize overall   ROAS. |
