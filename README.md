@@ -12,7 +12,7 @@
 
 # I. Introduction
 ## 1. Background
-- A fashion store ran multiple marketing campaigns in May 2024, and all of its datasets from that year were consolidated into a single Excel file.
+- A fashion store ran multiple marketing campaigns in May 2024, and all of its datasets from that month were consolidated into a single Excel file.
 ## 2. Dataset overview
 - This dataset contains multiple tables with information and metrics on hundreds of campaigns conducted in May 2024:
   + mkt_camp_by_sku_cost: each rows represent a single product and thier metrics
